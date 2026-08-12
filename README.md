@@ -80,8 +80,48 @@ Numero_Secreto/
 
 ---
 
+## 💡 Competências Desenvolvidas
 
+- Lógica de programação
+- JavaScript
+- HTML
+- CSS
+- Estruturas condicionais
+- Funções
+- Manipulação da interface
+- Resolução de problemas
+- Git e GitHub
 
+---
+
+## 📚 Contexto Acadêmico
+
+Projeto desenvolvido durante a etapa inicial de Lógica de Programação / Nivelamento da Alura, dentro da minha jornada no programa Oracle Next Education — ONE G9 BR.
+Este repositório é mantido no portfólio por representar o ponto de partida da minha evolução em desenvolvimento e tecnologia.
+
+---
+
+## 🚀 Evolução
+
+A partir deste primeiro projeto, minha jornada de aprendizagem avançou para áreas como:
+Lógica de Programação → Python → Data Analytics → Data Science → Machine Learning → Cloud → Inteligência Artificial
+Hoje, projetos mais recentes disponíveis neste GitHub demonstram essa evolução e a aplicação desses conhecimentos em problemas de maior complexidade.
+
+---
+
+## 👨‍💻 Autor
+
+Marcus Guedes
+
+Marketing | Data Science | Inteligência Artificial | Gestão de Projetos
+
+GitHub: MCLG1661
+
+LinkedIn: Marcus Guedes
+
+---
+
+⭐ Onde a jornada começou — Oracle Next Education | ONE G9 BR
 
   
 

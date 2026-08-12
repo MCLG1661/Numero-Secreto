@@ -121,7 +121,7 @@ LinkedIn: Marcus Guedes
 
 ---
 
-⭐ Onde a jornada começou — Oracle Next Education | ONE G9 BR
+⭐ **Oracle Next Education | ONE G9 BR** — Onde a jornada começou
 
   
 

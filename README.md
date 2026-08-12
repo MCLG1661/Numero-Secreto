@@ -12,6 +12,10 @@ Mais do que um exercício introdutório, este projeto representa o início da mi
 ![Oracle](https://img.shields.io/badge/Oracle-Next%20Education-F80000?logo=oracle&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
+---
+
+
+
 
   
 

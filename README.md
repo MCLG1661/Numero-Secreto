@@ -14,6 +14,72 @@ Mais do que um exercício introdutório, este projeto representa o início da mi
 
 ---
 
+## 🎯 Objetivo
+
+Aplicar na prática os fundamentos de lógica de programação por meio da construção de uma aplicação interativa.
+Durante o desenvolvimento foram trabalhados conceitos fundamentais para a evolução em programação, como :
+
+- Variáveis
+- Condicionais
+- Funções
+- Operadores
+- Interação com o usuário
+- Manipulação de elementos da página
+- Organização da lógica da aplicação
+
+---
+
+## 🎮 Como funciona
+
+O sistema define um número secreto e desafia o usuário a descobri-lo.
+
+```text
+Início do Jogo
+      ↓
+Geração do Número Secreto
+      ↓
+Usuário informa um palpite
+      ↓
+Comparação dos valores
+      ↓
+Número correto?
+   ↙       ↘
+ Não       Sim
+  ↓         ↓
+Nova      Vitória
+tentativa
+
+```
+
+A cada tentativa, a aplicação fornece informações que ajudam o usuário a chegar ao resultado.
+
+---
+
+## 🛠️ Tecnologias
+
+**JavaScript** - Lógica e funcionamento do jogo
+
+**HTML5** -	Estrutura da interface
+
+**CSS3** -	Estilização da aplicação
+
+---
+
+## 📂 Estrutura do Projeto
+
+```text
+Numero_Secreto/
+│
+├── img/
+├── app.js
+├── index.html
+├── style.css
+└── README.md
+
+```
+
+---
+
 
 
 

@@ -1,4 +1,4 @@
-Jogo do Número Secreto
+# 🔢 Número Secreto
 
 *Meu primeiro projeto no Oracle Next Education — ONE G9 BR*
 

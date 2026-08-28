@@ -1,9 +1,10 @@
 # 🔢 Número Secreto
 
-*Meu primeiro projeto no Oracle Next Education — ONE G9 BR*
+> **Meu primeiro projeto no Oracle Next Education — ONE G9 BR**
 
-É uma aplicação simples, criada durante os estudos iniciais de Lógica de Programação, na qual o usuário deve descobrir um número secreto a partir das orientações fornecidas pelo programa. 
-Mais do que um exercício introdutório, este projeto representa o início da minha jornada prática em programação dentro do ONE — uma trajetória que posteriormente avançou para Python, Data Science, Machine Learning, Cloud Computing e Inteligência Artificial.
+Aplicação web desenvolvida durante os estudos iniciais de **Lógica de Programação**, na qual o usuário deve descobrir um número secreto a partir das orientações fornecidas pelo sistema.
+
+Mais do que um exercício introdutório, este projeto representa o início da minha jornada prática em programação dentro do **Oracle Next Education (ONE)** — trajetória que posteriormente avançou para Python, Data Analytics, Machine Learning, Cloud Computing e Inteligência Artificial.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Lógica%20de%20Programação-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-Frontend-E34F26?logo=html5&logoColor=white)
@@ -16,30 +17,31 @@ Mais do que um exercício introdutório, este projeto representa o início da mi
 
 ## 🌐 Experimente o Projeto
 
-🎮 **[Jogar Número Secreto](https://mclg1661.github.io/Numero-Secreto/)**
+### 🎮 [Jogar Número Secreto](https://mclg1661.github.io/Numero-Secreto/)
 
-A aplicação está publicada via **GitHub Pages** e pode ser executada diretamente pelo navegador.
+A aplicação está publicada via **GitHub Pages** e pode ser executada diretamente no navegador.
 
 ---
 
 ## 🎯 Objetivo
 
-Aplicar na prática os fundamentos de lógica de programação por meio da construção de uma aplicação interativa.
-Durante o desenvolvimento foram trabalhados conceitos fundamentais para a evolução em programação, como :
+Aplicar na prática os fundamentos de **lógica de programação** por meio da construção de uma aplicação web interativa.
 
-- Variáveis
-- Condicionais
-- Funções
-- Operadores
-- Interação com o usuário
-- Manipulação de elementos da página
-- Organização da lógica da aplicação
+Durante o desenvolvimento foram trabalhados conceitos como:
+
+- variáveis;
+- condicionais;
+- funções;
+- operadores;
+- interação com o usuário;
+- manipulação de elementos da página;
+- organização da lógica da aplicação.
 
 ---
 
-## 🎮 Como funciona
+## 🎮 Como Funciona
 
-O sistema define um número secreto e desafia o usuário a descobri-lo.
+O sistema gera um número secreto e desafia o usuário a descobri-lo.
 
 ```text
 Início do Jogo
@@ -56,41 +58,42 @@ Número correto?
   ↓         ↓
 Nova      Vitória
 tentativa
-
 ```
 
-A cada tentativa, a aplicação fornece informações que ajudam o usuário a chegar ao resultado.
+A cada tentativa, a aplicação fornece uma orientação para ajudar o usuário a chegar ao número correto.
 
 ---
 
 ## 🛠️ Tecnologias
 
-**JavaScript** - Lógica e funcionamento do jogo
-
-**HTML5** -	Estrutura da interface
-
-**CSS3** -	Estilização da aplicação
+| Tecnologia | Aplicação |
+|---|---|
+| **JavaScript** | Lógica e funcionamento do jogo |
+| **HTML5** | Estrutura da interface |
+| **CSS3** | Estilização da aplicação |
+| **GitHub Pages** | Publicação da aplicação |
 
 ---
 
 ## 📂 Estrutura do Projeto
 
 ```text
-Numero_Secreto/
+Numero-Secreto/
 │
 ├── img/
 ├── app.js
 ├── index.html
 ├── style.css
 └── README.md
-
 ```
 
 ---
 
 ## 💡 Competências Desenvolvidas
 
-- Lógica de programação
+Este projeto introduziu conceitos fundamentais para minha evolução em desenvolvimento:
+
+- Lógica de Programação
 - JavaScript
 - HTML
 - CSS
@@ -104,33 +107,44 @@ Numero_Secreto/
 
 ## 📚 Contexto Acadêmico
 
-Projeto desenvolvido durante a etapa inicial de Lógica de Programação / Nivelamento da Alura, dentro da minha jornada no programa Oracle Next Education — ONE G9 BR.
-Este repositório é mantido no portfólio por representar o ponto de partida da minha evolução em desenvolvimento e tecnologia.
+Projeto desenvolvido durante a etapa inicial de **Lógica de Programação / Nivelamento da Alura**, dentro da minha jornada no programa **Oracle Next Education — ONE G9 BR**.
+
+O repositório permanece no portfólio por representar o **ponto de partida da minha evolução prática em programação e tecnologia**.
 
 ---
 
-## 🚀 Evolução
+## 🚀 Evolução da Jornada
 
-A partir deste primeiro projeto, minha jornada de aprendizagem avançou para áreas como:
-Lógica de Programação → Python → Data Analytics → Data Science → Machine Learning → Cloud → Inteligência Artificial
-Hoje, projetos mais recentes disponíveis neste GitHub demonstram essa evolução e a aplicação desses conhecimentos em problemas de maior complexidade.
+A partir dos fundamentos praticados neste projeto, minha trilha de desenvolvimento avançou progressivamente para:
+
+```text
+Lógica de Programação
+        ↓
+      Python
+        ↓
+ Data Analytics
+        ↓
+  Data Science
+        ↓
+Machine Learning
+        ↓
+      Cloud
+        ↓
+Inteligência Artificial
+```
+
+Projetos mais recentes disponíveis no meu GitHub demonstram a evolução dessa jornada e a aplicação desses conhecimentos em problemas de maior complexidade.
 
 ---
 
-## 👨‍💻 Autor
+## 👤 Autor
 
-Marcus Guedes
+### Marcus Guedes
 
-Marketing | Data Science | Inteligência Artificial | Gestão de Projetos
+**Project Management | PMO | Operations & Performance | Data Analytics & AI for Business**
 
-GitHub: MCLG1661
-
-LinkedIn: Marcus Guedes
+[GitHub](https://github.com/MCLG1661) • [LinkedIn](https://www.linkedin.com/in/marcusguedes/)
 
 ---
 
-⭐ **Oracle Next Education | ONE G9 BR** — Onde a jornada começou
-
-  
-
-
+⭐ **Oracle Next Education | ONE G9 BR — Onde a jornada começou.**
